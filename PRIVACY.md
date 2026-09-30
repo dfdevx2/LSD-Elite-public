@@ -40,4 +40,4 @@ If this policy changes, the new version will be published here with an updated d
 
 ## Contact
 
-Questions about this policy: <YOUR-CONTACT-EMAIL>
+Questions about this policy: dfdinbox@gmail.com
