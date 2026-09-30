@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="PLAY_STORE_LINK"><b>Get it on Google Play</b></a>
+  <b>Coming soon to Google Play</b>
   &nbsp;·&nbsp;
   <a href="PRIVACY.md">Privacy policy</a>
 </p>
